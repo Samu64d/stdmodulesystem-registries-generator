@@ -1,0 +1,7 @@
+{
+	"replace": false,
+	"values": [
+		"minecraft:water",
+		"#minecraft_registries.support_definitiones:predicate/is_not_solid"
+	]
+}

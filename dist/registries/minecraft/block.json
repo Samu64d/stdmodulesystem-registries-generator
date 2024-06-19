@@ -1,0 +1,47 @@
+{
+	"entries": {
+		"default": {
+			"hardness": 1,
+			"is_solid": true,
+			"is_flammable": false,
+			"is_ignitable": false,
+			"emissivity": 1
+		},
+        "#minecraft_registries.support_definitiones:predicate/is_not_solid": {
+            "is_solid": false
+        },
+		"stone": {
+			"hardness": 5
+		},
+		"ice": {
+			"emissivity": -1
+		},
+		"snow_block": {
+			"emissivity": -1
+		},
+		"glowstone": {
+			"emissivity": 10
+		},
+		"jack_o_lantern": {
+			"emissivity": 8
+		},
+		"redstone_lamp": {
+			"emissivity": 20
+		},
+		"sea_lantern": {
+			"emissivity": 22
+		},
+		"packed_ice": {
+			"emissivity": -3
+		},
+		"frosted_ice": {
+			"emissivity": -2
+		},
+		"magma_block": {
+			"emissivity": 100
+		},
+		"blue_ice": {
+			"emissivity": -3
+		}
+	}
+}

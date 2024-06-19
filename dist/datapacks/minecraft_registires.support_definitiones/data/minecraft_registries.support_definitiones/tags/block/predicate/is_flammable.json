@@ -1,0 +1,9 @@
+{
+	"replace": false,
+	"values": [
+		"#minecraft:small_flowers",
+        "#minecraft_registries.support_definitiones:predicate/is_flammable_and_ignitable",
+		"minecraft:coal_block",
+		"minecraft:hay_block"
+	]
+}

@@ -1,0 +1,26 @@
+{
+	"replace": false,
+	"values": [
+		"#minecraft:carpets",
+		"#minecraft:fences",
+		"#minecraft:fence_gates",
+		"#minecraft:leaves",
+		"#minecraft:logs_that_burn",
+		"#minecraft:planks",
+		"#minecraft:tall_flowers",
+		"#minecraft:wooden_slabs",
+		"#minecraft:wooden_stairs",
+		"#minecraft:wool",
+		"minecraft:bee_nest",
+		"minecraft:beehive",
+		"minecraft:bookshelf",
+		"minecraft:dead_bush",
+		"minecraft:fern",
+		"minecraft:grass_block",
+		"minecraft:large_fern",
+		"minecraft:lily_pad",
+		"minecraft:tall_grass",
+		"minecraft:tnt",
+		"minecraft:vine"
+	]
+}

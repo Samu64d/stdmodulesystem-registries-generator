@@ -1,0 +1,11 @@
+{
+	"entries": {
+        "default": {
+			"hardness": 1,
+			"is_solid": true,
+			"is_flammable": false,
+			"is_ignitable": false,
+			"emissivity": 1
+		}
+    }
+}

@@ -1,0 +1,18 @@
+{
+	"replace": false,
+	"values": [
+		"#minecraft:banners",
+		"#minecraft:beds",
+		"#minecraft:signs",
+		"#minecraft:wooden_doors",
+		"#minecraft:wooden_pressure_plates",
+		"#minecraft:wooden_trapdoors",
+        "#minecraft_registries.support_definitiones:predicate/is_flammable_and_ignitable",
+		"minecraft:chest",
+		"minecraft:crafting_table",
+		"minecraft:daylight_detector",
+		"minecraft:jukebox",
+		"minecraft:note_block",
+		"minecraft:trapped_chest"
+	]
+}

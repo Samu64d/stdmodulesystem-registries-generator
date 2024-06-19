@@ -1,0 +1,25 @@
+{
+	"name": "stdmodulesystem.registries_generator",
+	"version": "1.0.0",
+	"description": "STD Module system registries generator",
+	"scripts": {
+		"build": "npx webpack",
+		"start": "cd ../dist & registries_generator.bat",
+		"test": "npm run build & npm start"
+	},
+	"repository": {},
+	"keywords": [
+		"stdmodulesystem",
+		"registries",
+		"minecraft",
+		"datapack"
+	],
+	"author": "Samu64d",
+	"license": "CC0-1.0",
+	"devDependencies": {
+		"@types/node": "^20.10.4",
+		"ts-loader": "^9.5.1",
+		"webpack": "^5.89.0",
+		"webpack-cli": "^5.1.4"
+	}
+}

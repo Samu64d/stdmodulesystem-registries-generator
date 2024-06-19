@@ -1,0 +1,59 @@
+{
+	"data_version": 1,
+	"registries": [
+		{
+			"name": "block",
+			"type": "minecraft:block",
+			"pool": "default",
+			"props": 
+			[
+				{ "name": "id", "type": "id" },
+				{ "name": "hardness", "type": "uchar" },
+				{ "name": "is_solid", "type": "bool" },
+				{ "name": "is_flammable", "type": "bool" },
+				{ "name": "is_ignitable", "type": "bool" },
+				{ "name": "emissivity", "type": "char" }
+			]
+		},
+		{
+			"name": "fluid",
+			"type": "minecraft:fluid",
+			"pool": "default",
+			"props": 
+			[
+				{ "name": "id", "type": "id" },
+				{ "name": "viscosity", "type": "real" },
+				{ "name": "freezing_temperature", "type": "real" }
+			]
+		},
+		{
+			"name": "item",
+			"type": "minecraft:item",
+			"pool": "default",
+			"props": 
+			[
+				{ "name": "id", "type": "id" }
+			]
+		},
+		{
+			"name": "entity_type",
+			"type": "minecraft:entity_type",
+			"pool": "default",
+			"props": 
+			[
+				{ "name": "id", "type": "id" },
+				{ "name": "weight", "type": "uint16" }
+			]
+		},
+		{
+			"name": "biome",
+			"type": "minecraft:biome",
+			"pool": "default",
+			"props": 
+			[
+				{ "name": "id", "type": "id" },
+				{ "name": "temperature", "type": "real" }
+			]
+		}
+	]
+}

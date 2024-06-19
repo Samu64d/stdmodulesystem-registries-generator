@@ -1,0 +1,13 @@
+{
+	"entries": {
+		"default": {
+			"weight": 1
+		},
+		"zombie": {
+			"weight": 64
+		},
+		"creeper": {
+			"weight": 90
+		}
+	}
+}

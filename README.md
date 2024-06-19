@@ -1,0 +1,1 @@
+# Stdmodulesystem registries generator

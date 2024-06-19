@@ -1,0 +1,16 @@
+{
+	"entries": {
+		"default": {
+			"viscosity": 1.0,
+			"freezing_temperature": 0.0
+		},
+		"#minecraft:water": {
+			"viscosity": 1.0,
+			"freezing_temperature": 0.1
+		},
+		"#minecraft:lava": {
+			"viscosity": 12.0,
+			"freezing_temperature": -100.0
+		}
+	}
+}

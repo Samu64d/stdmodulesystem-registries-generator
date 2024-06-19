@@ -1,0 +1,8 @@
+{
+	"entries": {
+        "default": {
+			"viscosity": 1.0,
+			"freezing_temperature": 0.0
+		}
+    }
+}
